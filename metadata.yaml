@@ -1,0 +1,7 @@
+name: astrbot_plugin_cube
+display_name: 三阶魔方
+desc: 魔方插件，支持三阶魔方，可多人参与
+help: 略
+version: v1.0.2
+author: 饰乐
+repo: https://github.com/Zhalstar/astrbot_plugin_cube
